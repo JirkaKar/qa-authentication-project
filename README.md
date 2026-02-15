@@ -26,17 +26,3 @@ včetně validací vstupních polí a chybových stavů.
 - Bezpečnostní testy
 - Automatizované testy
 
-qa-authentication-project/
-│
-├── README.md
-├── testovaci-pripady/
-│   ├── prihlaseni.md
-│   ├── registrace.md
-│   └── obnova_hesla.md
-│
-├── bug-reporty/
-│   ├── BUG-001-validace-emailu.md
-│   └── BUG-002-heslo-pravidla.md
-│
-└── poznamky/
-    └── testovaci-poznamky.md
